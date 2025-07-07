@@ -1,0 +1,7 @@
+name = "profile"  # 🔁 Replace with a unique name for your worker
+main = "src/index.html"      # 🔁 Make sure this file exists
+compatibility_date = "2025-07-07"
+
+# Optional: Set environment if needed
+# [env.production]
+# vars = { ENV = "production" }
