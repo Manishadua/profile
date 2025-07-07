@@ -1,2 +1,5 @@
-send_metrics=false
-WRANGLER_SEND_METRICS=false
+name = "my-static-site"
+compatibility_date = "2025-07-07"
+
+[assets]
+directory = "."
